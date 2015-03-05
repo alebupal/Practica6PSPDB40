@@ -1,4 +1,4 @@
-package com.example.alejandro.practica6pspdb40;
+package com.example.alejandro.practica6aaddb4o;
 
 /**
  * Created by Alejandro on 10/10/2014.

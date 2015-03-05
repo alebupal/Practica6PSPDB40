@@ -1,4 +1,4 @@
-package com.example.alejandro.practica6pspdb40;
+package com.example.alejandro.practica6aaddb4o;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.example.alejandro.practica6pspdb40"
+        applicationId "com.example.alejandro.practica6aaddb4o"
         minSdkVersion 16
         targetSdkVersion 21
         versionCode 1
