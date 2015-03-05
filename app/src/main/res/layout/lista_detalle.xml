@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTitulo"
+        android:layout_toEndOf="@+id/ivCaratula"
+        android:text="Titulo película"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ivCaratula"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivCaratula"
+        android:src="@mipmap/ic_launcher"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:scaleType="fitXY"
+        android:paddingRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvGenero"
+        android:layout_toEndOf="@+id/ivCaratula"
+        android:text="Género película"
+        android:layout_below="@+id/tvTitulo"
+        android:layout_toRightOf="@+id/ivCaratula"
+        android:textSize="15dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvAnio"
+        android:layout_toEndOf="@+id/ivCaratula"
+        android:text="Año película"
+        android:layout_below="@+id/tvGenero"
+        android:layout_toRightOf="@+id/ivCaratula"
+        android:textSize="15dp"
+        android:layout_marginBottom="10dp" />
+</RelativeLayout>

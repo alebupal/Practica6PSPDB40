@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <item android:id="@+id/action_anadir"
+        android:title="@string/m_anadir"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_nombre"
+        android:title="@string/m_nombre"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_genero"
+        android:title="@string/m_genero"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_fecha"
+        android:title="@string/m_fecha"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

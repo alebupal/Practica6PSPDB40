@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practica6PSPDB40</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_titulo">Título</string>
+    <string name="et_anio">Año</string>
+    <string name="et_genero">Género</string>
+    <string name="m_anadir">Añadir</string>
+    <string name="m_nombre">Ordenar por nombre</string>
+    <string name="m_fecha">Ordenadar por fecha</string>
+    <string name="m_genero">Ordenar por género</string>
+    <string name="m_editar">Editar</string>
+    <string name="m_borrar">Borrar</string>
+    <string name="a_pelicula">Añadir Película</string>
+    <string name="p_anadida">Película añadida</string>
+    <string name="p_borrada">Película borrada</string>
+    <string name="p_modificar">Película modificada</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="vacios">Algun/os campos vacíos</string>
+    <string name="borrar">¿Seguro que desea borrarlo?</string>
+</resources>
